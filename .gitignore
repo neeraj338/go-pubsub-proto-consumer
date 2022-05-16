@@ -1,0 +1,7 @@
+.vscode
+.DS_Store
+.env
+go-pubsub-proto-consumer
+go.sum
+.gitattributes
+__debug_bin
